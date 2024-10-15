@@ -10,7 +10,7 @@
 
   
 ## Overview
-
+This repository contains notebooks of trained models . 
 
 ## Task
 This task focuses on behavior simulation,where the goal is to predict user engagement on a tweet, which is measured by likes given the content of a tweet (text, company, username, media URLs, timestamp). Therefore, the outline of this task was to create a machine learning model that provides a numerical value that corresponds to the number of likes a particular tweet may receive on the platform.
