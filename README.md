@@ -21,7 +21,7 @@ Training Data - [here](https://docs.google.com/spreadsheets/d/1oKN_4cMNQHMNrmTSj
 
 ## Results
 
-Predicted content for the test dataset on all the different metric are provided in [this]() folder.
+This is our final model [this]() .
 
 ## Report
 
