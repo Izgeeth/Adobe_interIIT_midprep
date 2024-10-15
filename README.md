@@ -27,6 +27,6 @@ These are our final models
 
 ## Report
 
-A detailed description for these tasks, their approcahes and pros-cons of the  different techniques used is provided in [this](https://drive.google.com/file/d/1dlhpXM8WYs28mOWwqkchNw1ogfnf1WRn/view?usp=drive_link) report.
+A detailed description for these tasks, their approcahes and pros-cons of the  different techniques used is provided in [this](https://drive.google.com/file/d/1dlhpXM8WYs28mOWwqkchNw1ogfnf1WRn/view?usp=sharing) report.
 
 
