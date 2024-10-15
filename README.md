@@ -22,8 +22,8 @@ Training Data - [here](https://docs.google.com/spreadsheets/d/1oKN_4cMNQHMNrmTSj
 ## Results
 
 These are our final models 
-[this]() 
-[this]()
+- [this](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/bert-adobe%20(1).ipynb) 
+- [this](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/fork-of-bert-adobe.ipynb)
 
 ## Report
 
