@@ -27,6 +27,6 @@ These are our final models
 
 ## Report
 
-A detailed description for these tasks, their approcahes and pros-cons of the  different techniques used is provided in [this]() report.
+A detailed description for these tasks, their approcahes and pros-cons of the  different techniques used is provided in [this](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/Report%20of%20Adobe%20Task.pdf) report.
 
 
