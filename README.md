@@ -22,8 +22,8 @@ Training Data - [here](https://docs.google.com/spreadsheets/d/1oKN_4cMNQHMNrmTSj
 ## Results
 
 These are our final models 
-- [bert-adobe](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/bert-adobe%20(1).ipynb) 
-- [fork-of-bert-adobe](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/fork-of-bert-adobe.ipynb)
+- [for sub task 1 - bert-adobe](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/bert-adobe%20(1).ipynb) 
+- [for sub task 2 - fork-of-bert-adobe](https://github.com/Izgeeth/Adobe_interIIT_midprep/blob/main/fork-of-bert-adobe.ipynb)
 
 ## Report
 
