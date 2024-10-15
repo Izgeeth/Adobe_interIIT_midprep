@@ -19,6 +19,9 @@ This task focuses on behavior simulation,where the goal is to predict user engag
 
 Training Data - [here](https://docs.google.com/spreadsheets/d/1oKN_4cMNQHMNrmTSjzKqiJpvDTQA0dAH/edit?usp=drive_link&ouid=101476968084918341858&rtpof=true&sd=true)
 
+## Presentation
+- [this](https://drive.google.com/file/d/15EHLhfKUZG6MpFr9Rj_hnpJb-gx2LbRU/view?usp=sharing)
+
 ## Results
 
 These are our final models 
